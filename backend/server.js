@@ -36,5 +36,4 @@ mongoose
     process.exit(1);
   });
 
-// ❌ REMOVE THIS IN PRODUCTION (security risk)
 // console.log("MONGO_URI:", process.env.MONGO_URI);
